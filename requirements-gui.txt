@@ -1,0 +1,4 @@
+# Desktop GUI + optional webcam visual-scramble preview.
+PyQt6>=6.6
+opencv-python>=4.9
+numpy>=1.26

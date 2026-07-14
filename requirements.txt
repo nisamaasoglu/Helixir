@@ -1,0 +1,2 @@
+# Core — encryption + DNA codec + audit log. No GUI needed to run the tests.
+cryptography>=42.0
